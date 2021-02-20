@@ -16,7 +16,7 @@
 	h1 {
 		color: #253a96;
 		font-size: 4em;
-		font-weight: bold;
+		font-weight: 500;
 	}
 </style>
 

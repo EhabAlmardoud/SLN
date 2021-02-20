@@ -698,12 +698,12 @@ var app = (function () {
     			button.textContent = "X";
     			t1 = space();
     			t2 = text(/*email*/ ctx[0]);
-    			attr_dev(button, "class", "delete_button svelte-1hihew2");
-    			add_location(button, file$1, 35, 8, 750);
-    			attr_dev(div0, "class", "card_cont svelte-1hihew2");
-    			add_location(div0, file$1, 34, 4, 717);
-    			attr_dev(div1, "class", "card svelte-1hihew2");
-    			add_location(div1, file$1, 33, 0, 693);
+    			attr_dev(button, "class", "delete_button svelte-to5s34");
+    			add_location(button, file$1, 36, 8, 793);
+    			attr_dev(div0, "class", "card_cont svelte-to5s34");
+    			add_location(div0, file$1, 35, 4, 760);
+    			attr_dev(div1, "class", "card svelte-to5s34");
+    			add_location(div1, file$1, 34, 0, 736);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -899,10 +899,10 @@ var app = (function () {
     				each_blocks[i].c();
     			}
 
-    			attr_dev(h1, "class", "svelte-8mmr8u");
-    			add_location(h1, file$2, 23, 1, 324);
-    			attr_dev(div, "class", "main svelte-8mmr8u");
-    			add_location(div, file$2, 22, 0, 304);
+    			attr_dev(h1, "class", "svelte-1r3x030");
+    			add_location(h1, file$2, 23, 1, 323);
+    			attr_dev(div, "class", "main svelte-1r3x030");
+    			add_location(div, file$2, 22, 0, 303);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
