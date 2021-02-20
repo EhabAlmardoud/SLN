@@ -698,12 +698,12 @@ var app = (function () {
     			button.textContent = "X";
     			t1 = space();
     			t2 = text(/*email*/ ctx[0]);
-    			attr_dev(button, "class", "delete_button svelte-to5s34");
-    			add_location(button, file$1, 36, 8, 793);
-    			attr_dev(div0, "class", "card_cont svelte-to5s34");
-    			add_location(div0, file$1, 35, 4, 760);
-    			attr_dev(div1, "class", "card svelte-to5s34");
-    			add_location(div1, file$1, 34, 0, 736);
+    			attr_dev(button, "class", "delete_button svelte-l6cso");
+    			add_location(button, file$1, 37, 8, 822);
+    			attr_dev(div0, "class", "card_cont svelte-l6cso");
+    			add_location(div0, file$1, 36, 4, 789);
+    			attr_dev(div1, "class", "card svelte-l6cso");
+    			add_location(div1, file$1, 35, 0, 765);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");

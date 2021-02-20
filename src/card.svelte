@@ -23,7 +23,8 @@
         display: flex;
         align-items: baseline;
         padding: 5px;
-        border-bottom: 1px solid #253a96;
+        border-bottom: 2px solid #253a96;
+        border-radius: 5px;
     }
     .delete_button{
         margin: 10px;
